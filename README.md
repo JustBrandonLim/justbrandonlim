@@ -11,4 +11,4 @@ I am an avid programmer and a fitness enthusiast. I grew up loving the world of 
 <br>
 
 ## Stats
-![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustBrandonLim&count_private=true&show_icons=true&theme=dark/)
+![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustBrandonLim&count_private=true&show_icons=true&theme=dark)
