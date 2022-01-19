@@ -8,7 +8,7 @@ I am an avid programmer and a fitness enthusiast. I grew up loving the world of 
 <br>
 
 ## Connect With Me
-* [Linktree](https://linktr.ee/justbrandonlim/)
+* Check out my [Linktree](https://linktr.ee/justbrandonlim/)!
 
 <br>
 
