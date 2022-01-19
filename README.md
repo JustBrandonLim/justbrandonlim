@@ -9,35 +9,34 @@ I am an avid programmer and a fitness enthusiast. I grew up loving the world of 
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 
-<br>
-
 ## Connect With Me
 * Check out my [Linktree](https://linktr.ee/justbrandonlim/)!
 
-<br>
-
-## Donations
+## Support
 * You can buy me a coffee [here](https://ko-fi.com/justbrandonlim/)!
 
-<br>
-
-## Stats
+## My Statistics
 ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustBrandonLim&count_private=true&show_icons=true&theme=dark)
+![Brandon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustBrandonLim&count_private=true&show_icons=true&theme=dark)
 
-<br>
+## Computing Knowledge
+![C](https://img.shields.io/badge/-C-brightgreen?logo=c)
+![C++](https://img.shields.io/badge/-C%2B%2B-brightgreen?logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-brightgreen?logo=csharp)
+![Java](https://img.shields.io/badge/-Java-brightgreen?logo=java)
+![Python](https://img.shields.io/badge/-Python-brightgreen?logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-brightgreen?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-brightgreen?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-brightgreen?logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-brightgreen?logo=php)
+![React](https://img.shields.io/badge/-React-brightgreen?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-brightgreen?logo=nextdotjs)
+![Assembly](https://img.shields.io/badge/-Assembly-brightgreen?logo=)
+![MySQL](https://img.shields.io/badge/-MySQL-brightgreen?logo=mysql)
+![Markdown](https://img.shields.io/badge/-Markdown-brightgreen?logo=markdown)
 
-## Programming Languages, Libraries & Frameworks
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whiteJavaScript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Android Debug Bridge](https://img.shields.io/badge/-Android%20Debug%20Bridge-brightgreen?logo=android)
+![jQuery](https://img.shields.io/badge/-jQuery-brightgreen?logo=jquery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-brightgreen?logo=bootstrap)
+
+![.NET](https://img.shields.io/badge/-.NET-brightgreen?logo=dotnet)
