@@ -5,10 +5,13 @@ I am an avid programmer and a fitness enthusiast. I grew up loving the world of 
 <br>
 
 ## Connect With Me
-- [Linktree](https://linktr.ee/justbrandonlim/)
+* [Linktree](https://linktr.ee/justbrandonlim/)
 
 <br>
 <br>
+
+## Donations
+* You can buy me a coffee [here](https://ko-fi.com/justbrandonlim/)!
 
 ## Stats
 ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustBrandonLim&count_private=true&show_icons=true&theme=dark)
