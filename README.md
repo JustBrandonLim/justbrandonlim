@@ -5,6 +5,8 @@ I am an avid programmer and a fitness enthusiast. I grew up loving the world of 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 
+<br>
+
 ## Connect With Me
 * [Linktree](https://linktr.ee/justbrandonlim/)
 
