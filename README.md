@@ -17,7 +17,7 @@ I am an avid programmer and a fitness enthusiast. I grew up loving the world of 
 
 ## My Statistics
 ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustBrandonLim&count_private=true&show_icons=true&theme=dark)
-![Brandon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustBrandonLim&count_private=true&show_icons=true&theme=dark)
+![Brandon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustBrandonLim&count_private=true&show_icons=true&theme=dark&exclude_repo=justbrandonlim.github.io)
 
 ## Computing Knowledge
 ![C](https://img.shields.io/badge/-C-brightgreen?logo=c)
