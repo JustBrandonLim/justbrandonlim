@@ -16,8 +16,8 @@ I am an avid programmer and a fitness enthusiast. I grew up loving the world of 
 * You can buy me a coffee [here](https://ko-fi.com/justbrandonlim/)!
 
 ## My Statistics
-![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustBrandonLim&count_private=true&show_icons=true&theme=dark)
-![Brandon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustBrandonLim&show_icons=true&theme=dark&langs_count=10)
+![Brandon's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=JustBrandonLim&count_private=true&show_icons=true&theme=dark&custom_title=Brandon%27s%20GitHub%20Statistics)
+![Brandon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustBrandonLim&show_icons=true&theme=dark&langs_count=10&custom_title=Brandon%27s%20Top%20Languages&layout=compact&hide=css,hack)
 
 ## Computing Knowledge
 ![C](https://img.shields.io/badge/-C-brightgreen?logo=c)
