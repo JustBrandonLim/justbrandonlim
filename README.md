@@ -30,6 +30,7 @@ I am an avid programmer and a fitness enthusiast. I grew up loving the world of 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-brightgreen?logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-brightgreen?logo=php)
 ![React](https://img.shields.io/badge/-React-brightgreen?logo=react)
+![Gatsby](https://img.shields.io/badge/-Gatsby-brightgreen?logo=gatsby)
 ![Next.js](https://img.shields.io/badge/-Next.js-brightgreen?logo=nextdotjs)
 ![Assembly](https://img.shields.io/badge/-Assembly-brightgreen?logo=)
 ![MySQL](https://img.shields.io/badge/-MySQL-brightgreen?logo=mysql)
