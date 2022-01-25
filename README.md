@@ -38,5 +38,6 @@ I am an avid programmer and a fitness enthusiast. I grew up loving the world of 
 ![Android Debug Bridge](https://img.shields.io/badge/-Android%20Debug%20Bridge-brightgreen?logo=android)
 ![jQuery](https://img.shields.io/badge/-jQuery-brightgreen?logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-brightgreen?logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-brightgreen?logo=tailwindcss)
 
 ![.NET](https://img.shields.io/badge/-.NET-brightgreen?logo=dotnet)
