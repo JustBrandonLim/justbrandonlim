@@ -1,13 +1,5 @@
 # Brandon Lim
-I am an avid programmer and a fitness enthusiast. I grew up loving the world of Information Technology and wrote my first line of code at the age of 12. I developed an interest in programming and hacking after playing against some hackers when I was young. I am currently actively participating in Capture The Flag (CTF) competitions.
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+Hi there! I am Brandon Lim, a software engineer based in Singapore. I create beautiful solutions. I wrote my first line of code at the age of 12 and have never stopped doing programming ever since. I am currently pursuing my degree as a student in Singapore Institute of Technology majoring in BE in Informations and Communications Technology (Software Engineering).
 
 ## Connect With Me
 * Check out my [Linktree](https://linktr.ee/justbrandonlim/)!
