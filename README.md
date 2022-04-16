@@ -1,5 +1,5 @@
 # Brandon Lim
-Hi there! I am Brandon Lim, a software engineer based in Singapore. I create beautiful solutions. I wrote my first line of code at the age of 12 and have never stopped doing programming ever since. I am currently pursuing my degree as a student in Singapore Institute of Technology majoring in BE in Informations and Communications Technology (Software Engineering).
+Hi, I'm Brandon Lim. I'm an aspiring software engineer based in Singapore. I am currently a student in Singapore Institute of Technology, pursuing my degree in Bachelor of Engineering in Informations and Communications Technology (Software Engineering).
 
 ## Connect With Me
 * Check out my [Linktree](https://linktr.ee/justbrandonlim/)!
