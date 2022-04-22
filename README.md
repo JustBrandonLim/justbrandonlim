@@ -1,7 +1,7 @@
 # Brandon Lim
 Hello! My name is Brandon and I love everything about programming. My passion in programming started way back in 2011 at the age of 12 when I got my first computer.
 Today, I am the proud co-founder of Beeware, a software solutions start-up.
->My current goal now is to launch an online course in the near future to help beginners learn how to build their first webpage.
+My current goal now is to launch an online course in the near future to help beginners learn how to build their first webpage.
 
 ## Connect With Me
 * Check out my [Linktree](https://linktr.ee/justbrandonlim/)!
