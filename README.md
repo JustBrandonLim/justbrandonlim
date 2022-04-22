@@ -1,5 +1,7 @@
 # Brandon Lim
-Hi, I'm Brandon Lim. I'm an aspiring software engineer based in Singapore. I am currently a student in Singapore Institute of Technology, pursuing my degree in Bachelor of Engineering in Informations and Communications Technology (Software Engineering).
+Hello! My name is Brandon and I love everything about programming. My passion in programming started way back in 2011 at the age of 12 when I got my first computer.
+Today, I am the proud co-founder of Beeware, a software solutions start-up.
+>My current goal now is to launch an online course in the near future to help beginners learn how to build their first webpage.
 
 ## Connect With Me
 * Check out my [Linktree](https://linktr.ee/justbrandonlim/)!
