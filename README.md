@@ -11,7 +11,7 @@ My goal is to launch an online course in the near future to help beginners learn
 
 ## My Statistics
 ![Brandon's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=JustBrandonLim&count_private=true&show_icons=true&theme=onedark&custom_title=Brandon%27s%20GitHub%20Statistics)
-![Brandon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustBrandonLim&show_icons=true&theme=onedark&langs_count=5&custom_title=Brandon%27s%20Top%20Languages&layout=default)
+![Brandon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustBrandonLim&show_icons=true&theme=onedark&langs_count=6&custom_title=Brandon%27s%20Top%20Languages&layout=default)
 
 ## Computing Knowledge
 ![C](https://img.shields.io/badge/-C-brightgreen?logo=c)
