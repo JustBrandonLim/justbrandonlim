@@ -54,7 +54,7 @@ I specialize in creating softwares that solves real world problems.
 ### 👉 Visual Studio
 
 - Fira Code
-- Vim
+- VsVim 2022
 
 ### 👉 Visual Studio Code
 
