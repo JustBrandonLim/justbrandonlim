@@ -48,3 +48,22 @@ I specialize in creating softwares that solves real world problems.
 ![Brandon's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=JustBrandonLim&count_private=true&show_icons=true&theme=onedark&custom_title=Brandon%27s%20GitHub%20Statistics)
 
 ![Brandon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustBrandonLim&show_icons=true&theme=onedark&langs_count=6&custom_title=Brandon%27s%20Top%20Languages&layout=default)
+
+#  Settings
+
+### 👉 Visual Studio
+
+- Fira Code
+- Vim
+
+### 👉 Visual Studio Code
+
+- Fira Code
+- GitHub Theme (GitHub Dark Dimmed)
+- Prettier
+- Vim
+- Thunder Client
+- Headwind
+- Tailwind CSS IntelliSense
+- Markdown All in One
+- CodeSnap
