@@ -54,7 +54,6 @@ I specialize in creating softwares that solves real world problems.
 ### 👉 Visual Studio
 
 - JetBrains Mono
-- VsVim 2022
 
 ### 👉 Visual Studio Code
 
