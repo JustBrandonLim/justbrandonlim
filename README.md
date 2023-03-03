@@ -59,6 +59,7 @@ I specialize in creating softwares that solves real world problems.
 
 - Fira Code
 - GitHub Theme (GitHub Dark Default)
+- Material Icon Theme
 - Prettier
 - Vim
 - Thunder Client
