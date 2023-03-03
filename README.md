@@ -53,12 +53,12 @@ I specialize in creating softwares that solves real world problems.
 
 ### 👉 Visual Studio
 
-- JetBrains Mono
+- Fira Code
 
 ### 👉 Visual Studio Code
 
-- JetBrains Mono
-- GitHub Theme (GitHub Dark Dimmed)
+- Fira Code
+- GitHub Theme (GitHub Dark Default)
 - Prettier
 - Vim
 - Thunder Client
