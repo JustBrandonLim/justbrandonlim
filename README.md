@@ -67,3 +67,29 @@ I specialize in creating softwares that solves real world problems.
 - Tailwind CSS IntelliSense
 - Markdown All in One
 - CodeSnap
+
+### 👉 MacOS
+
+- iTerm2
+- Oh My Zsh
+- Homebrew
+- Git
+- Discord
+- Telegram
+- Visual Studio Code
+- Visual Studio
+- Spotify
+- Mozilla Firefox
+- Microsoft Office
+
+### 👉 Windows
+
+- Git
+- Discord
+- Telegram
+- Visual Studio Code
+- Visual Studio
+- Spotify
+- Mozilla Firefox
+- Microsoft Office
+- Steam
