@@ -70,7 +70,6 @@ I specialize in creating softwares that solves real world problems.
 
 ### 👉 MacOS
 
-- iTerm2
 - Oh My Zsh
 - Homebrew
 - Git
