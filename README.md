@@ -4,7 +4,7 @@ Hi! My name is Brandon and I'm an aspiring software engineer based in Singapore.
 
 I specialize in creating softwares that solves real world problems.
 
-# ⚒️ Computing Knowledge 
+# ⚒️ Computing Knowledge
 
 ### 👉 Programming, Markup & Scripting Languages
 
@@ -49,11 +49,12 @@ I specialize in creating softwares that solves real world problems.
 
 ![Brandon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustBrandonLim&show_icons=true&theme=onedark&langs_count=6&custom_title=Brandon%27s%20Top%20Languages&layout=default)
 
-#  Settings
+# Settings
 
 ### 👉 Visual Studio
 
 - Fira Code
+- VsVim
 
 ### 👉 Visual Studio Code
 
@@ -72,6 +73,7 @@ I specialize in creating softwares that solves real world problems.
 
 - Oh My Zsh
 - Homebrew
+- Powerlevel10k
 - Git
 - Discord
 - Telegram
