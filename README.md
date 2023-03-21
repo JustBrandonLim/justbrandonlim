@@ -82,6 +82,8 @@ I specialize in creating softwares that solves real world problems.
 - Spotify
 - Mozilla Firefox
 - Microsoft Office
+- AlDente
+- KeepingYouAwake
 
 ### 👉 Windows
 
