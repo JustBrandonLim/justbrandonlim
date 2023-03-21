@@ -84,6 +84,7 @@ I specialize in creating softwares that solves real world problems.
 - Microsoft Office
 - AlDente
 - KeepingYouAwake
+- Luma Fusion
 
 ### 👉 Windows
 
