@@ -1,8 +1,6 @@
 # 👋 Hello World
 
-Hi! My name is Brandon and I'm an aspiring software engineer based in Singapore.
-
-I specialize in creating softwares that solves real world problems.
+Hey there! I'm Brandon Lim Jing Zhi. I am a software engineer based in Singapore.
 
 # ⚒️ Computing Knowledge
 
