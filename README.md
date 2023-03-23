@@ -1,6 +1,6 @@
 # 👋 Hello World
 
-Hey there! I'm Brandon Lim Jing Zhi. I am a software engineer based in Singapore.
+Hey there! I am Brandon Lim Jing Zhi, a software engineer based in Singapore.
 
 # ⚒️ Computing Knowledge
 
