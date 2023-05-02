@@ -51,12 +51,12 @@ Hey there! I am Brandon Lim Jing Zhi, a software engineer based in Singapore.
 
 ### 👉 Visual Studio
 
-- Fira Code
+- JetBrains Mono
 - VsVim
 
 ### 👉 Visual Studio Code
 
-- Fira Code
+- JetBrains Mono
 - GitHub Theme (GitHub Dark Default)
 - Material Icon Theme
 - Prettier
@@ -71,7 +71,6 @@ Hey there! I am Brandon Lim Jing Zhi, a software engineer based in Singapore.
 
 - Oh My Zsh
 - Homebrew
-- Powerlevel10k
 - Git
 - Discord
 - Telegram
