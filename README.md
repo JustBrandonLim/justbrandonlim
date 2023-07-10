@@ -46,6 +46,7 @@ Hey there! I am Brandon Lim Jing Zhi, a software engineer based in Singapore.
 ### 👉 Visual Studio
 
 - JetBrains Mono
+- GitHub Theme (GitHub Dark Default)
 - VsVim
 
 ### 👉 Visual Studio Code
