@@ -41,12 +41,6 @@ Hey there! I am Brandon Lim Jing Zhi, a software engineer based in Singapore.
 ![gitignore.io](https://img.shields.io/badge/gitignore.io-204ECF?style=for-the-badge&logo=gitignore.io&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-# 📊 Statistics
-
-![Brandon's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=JustBrandonLim&count_private=true&show_icons=true&theme=onedark&custom_title=Brandon%27s%20GitHub%20Statistics)
-
-![Brandon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustBrandonLim&show_icons=true&theme=onedark&langs_count=6&custom_title=Brandon%27s%20Top%20Languages&layout=default)
-
 # Settings
 
 ### 👉 Visual Studio
