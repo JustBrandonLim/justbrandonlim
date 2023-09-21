@@ -1,3 +1,3 @@
 # JustBrandonLim
 
-I am a software engineer based in Singapore.
+I am a software engineer from Singapore.
